@@ -1,4 +1,4 @@
-tensorflow-cpu>=2.10,<2.16
+tensorflow-cpu==2.16.1
 numpy 
 pandas
 scikit-learn
